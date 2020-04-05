@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/test-gh-page/static/css/main.5b3d8303.chunk.css",
+    "main.js": "/test-gh-page/static/js/main.891716d4.chunk.js",
+    "main.js.map": "/test-gh-page/static/js/main.891716d4.chunk.js.map",
+    "runtime-main.js": "/test-gh-page/static/js/runtime-main.01b67d53.js",
+    "runtime-main.js.map": "/test-gh-page/static/js/runtime-main.01b67d53.js.map",
+    "static/css/2.013c8578.chunk.css": "/test-gh-page/static/css/2.013c8578.chunk.css",
+    "static/js/2.682989eb.chunk.js": "/test-gh-page/static/js/2.682989eb.chunk.js",
+    "static/js/2.682989eb.chunk.js.map": "/test-gh-page/static/js/2.682989eb.chunk.js.map",
+    "index.html": "/test-gh-page/index.html",
+    "precache-manifest.2efd48b1ee61b8ecc8019f1de69cda60.js": "/test-gh-page/precache-manifest.2efd48b1ee61b8ecc8019f1de69cda60.js",
+    "service-worker.js": "/test-gh-page/service-worker.js",
+    "static/css/2.013c8578.chunk.css.map": "/test-gh-page/static/css/2.013c8578.chunk.css.map",
+    "static/css/main.5b3d8303.chunk.css.map": "/test-gh-page/static/css/main.5b3d8303.chunk.css.map",
+    "static/js/2.682989eb.chunk.js.LICENSE.txt": "/test-gh-page/static/js/2.682989eb.chunk.js.LICENSE.txt",
+    "static/media/device-mockups.min.css": "/test-gh-page/static/media/portrait_white.f7b169ae.png",
+    "static/media/paper-kit.scss": "/test-gh-page/static/media/nucleo-icons.f32ed5ad.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01b67d53.js",
+    "static/css/2.013c8578.chunk.css",
+    "static/js/2.682989eb.chunk.js",
+    "static/css/main.5b3d8303.chunk.css",
+    "static/js/main.891716d4.chunk.js"
+  ]
+}
